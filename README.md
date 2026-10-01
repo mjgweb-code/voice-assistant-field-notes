@@ -30,3 +30,4 @@ being posted anywhere.
 |---|---|---|
 | 2026-10-01 | [Wake-word sensitivity is a real runtime control](notes/2026-10-01-wake-word-sensitivity-runtime-control.md) | [esphome/home-assistant-voice-pe#471](https://github.com/esphome/home-assistant-voice-pe/issues/471#issuecomment-5937132033) |
 | 2026-10-01 | [Gemini's thinking tokens eat your output budget](notes/2026-10-01-gemini-thinking-tokens-eat-output-budget.md) | [googleapis/python-genai#782](https://github.com/googleapis/python-genai/issues/782#issuecomment-5937252172) |
+| 2026-10-01 | [ESPHome voice protocol gotchas](notes/2026-10-01-esphome-voice-protocol-gotchas.md) | [FutureProofHomes/Satellite1-ESPHome#540](https://github.com/FutureProofHomes/Satellite1-ESPHome/issues/540#issuecomment-5937969925) |
